@@ -1,0 +1,13 @@
+{
+  "heroImage": "/assets/uploads/logo.png",
+  "heroDescription": "This is a HERO description.",
+  "secondaryImage": "/assets/uploads/logo.png",
+  "regionConfirmed": true,
+  "phone": "999-867-5309",
+  "tagline": "We do some things",
+  "address": "address",
+  "email": "jason@pluviumlabs.com",
+  "company": "Fast Company",
+  "heroTitle": "Yeah, checkout this Hero Title",
+  "factsApproved": true
+}
